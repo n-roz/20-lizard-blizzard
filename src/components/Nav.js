@@ -10,7 +10,7 @@ function Nav(props) {
 			<ul className="flex-row mobile-view">
 				<li className={currentTab === "about" ? "mx-2 navActive" : "mx-2"}><a
 				href='#about'
-					 onClick={() => setCurrentTab("about")}>About Me </a>
+					 onClick={() => setCurrentTab("about")}>About Me</a>
 				</li>
 				<li className={currentTab === "portfolio" ? "mx-2 navActive" : "mx-2"}><a
 				href='#portfolio'
