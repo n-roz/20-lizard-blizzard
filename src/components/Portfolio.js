@@ -1,5 +1,5 @@
 import React from 'react';
-import dnd from '../assets/dnd.jpg';
+import dnd from '../assets/dnd.png';
 
 function Portfolio() {
     return (

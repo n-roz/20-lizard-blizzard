@@ -3,7 +3,7 @@ import Nav from "./Nav";
 
 // from module 20
 function Header(props) {
-    const { currentTab, handleTabChange } = props;
+    const { currentTab, setCurrentTab } = props;
 
     return (
         <div>
@@ -15,7 +15,7 @@ function Header(props) {
                     <div>
                         <Nav
                             currentTab={currentTab}
-                            handleTabChange={handleTabChange}
+                            setCurrentTab={setCurrentTab}
                         ></Nav>
                     </div>
                 </header>
