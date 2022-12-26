@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "../Nav";
+import Nav from "./Nav";
 
 // from module 20
 function Header(props) {
@@ -20,13 +20,13 @@ function Header(props) {
                     </div>
                 </header>
             </section>
-            <section>
+            <section class="hero">
                 <div>
                     <h3>Welcome</h3>
                     <p>Welcome to Naomi's portfolio</p>
                 </div>
             </section>
-            </div>
+        </div>
     );
 }
 
