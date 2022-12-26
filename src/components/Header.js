@@ -19,12 +19,11 @@ function Header(props) {
                         ></Nav>
                     </div>
                 </header>
-            </section>
-            <section class="hero">
-                <div>
+            <section  className='backgroundImg'>
+                <div className='backgroundPic'></div>
                     <h3>Welcome</h3>
                     <p>Welcome to Naomi's portfolio</p>
-                </div>
+            </section>
             </section>
         </div>
     );

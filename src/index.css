@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* 
+header {
+  background-image: url('./assets/1920x950image1.png');
+}
+
+* {
+  margin: 555;
+  padding: 555;
+  box-sizing: border-box;
+}
+
+.backgroundImg {
+  background-image: url('./assets/1920x950image1.png');
+  background-size: cover;
+  background-position: center;
+}
+
+header nav {
+  margin: 7px 0;
+}
+
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+} */
