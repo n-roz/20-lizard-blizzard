@@ -1,5 +1,7 @@
 import React from 'react';
 import dnd from '../assets/dnd.png';
+import password from '../assets/password-generator.png';
+import quiz from '../assets/code-quiz.png';
 
 function Portfolio() {
     return (
@@ -22,6 +24,39 @@ function Portfolio() {
                         </div>
                     </div>
                 </div>
+
+                <div>
+                    <div>
+                        <div>
+                            <a href="https://github.com/n-roz/password-generator">
+                                {" "}
+                                <img src={password} className="my-2" style={{ width: "20%" }} alt="Password Generator" />
+                            </a>
+                        </div>
+                        <div>
+                            <h4>Password Generator</h4>
+                            <p>See my GitHub for more</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <div>
+                            <a href="https://github.com/n-roz/code-quiz">
+                                {" "}
+                                <img src={quiz} className="my-2" style={{ width: "20%" }} alt="Code Quiz" />
+                            </a>
+                        </div>
+                        <div>
+                            <h4>Code Quiz</h4>
+                            <p>See my GitHub for more</p>
+                        </div>
+                    </div>
+                </div>
+
+
+
 
 
 
