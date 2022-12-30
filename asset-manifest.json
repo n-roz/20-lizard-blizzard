@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/20-lizard-blizzard/static/css/main.073c9b0a.css",
+    "main.js": "/20-lizard-blizzard/static/js/main.56a056aa.js",
+    "static/js/787.b11ceb0a.chunk.js": "/20-lizard-blizzard/static/js/787.b11ceb0a.chunk.js",
+    "static/media/code-refractor.png": "/20-lizard-blizzard/static/media/code-refractor.6fbad7058f42c1fb76dc.png",
+    "static/media/dnd.png": "/20-lizard-blizzard/static/media/dnd.7921fc9452c895093b3b.png",
+    "static/media/code-quiz.png": "/20-lizard-blizzard/static/media/code-quiz.2aafaeb67459ff52c64b.png",
+    "static/media/resume.pdf": "/20-lizard-blizzard/static/media/resume.426eabbda53c64b9bb14.pdf",
+    "static/media/operation-pokedex.png": "/20-lizard-blizzard/static/media/operation-pokedex.05d297fff1534c43376d.png",
+    "static/media/profileImage.jpg": "/20-lizard-blizzard/static/media/profileImage.c08d57bb20d28d1ad3e4.jpg",
+    "static/media/movie-finder-pro.png": "/20-lizard-blizzard/static/media/movie-finder-pro.55fe86357f415286979e.png",
+    "static/media/password-generator.png": "/20-lizard-blizzard/static/media/password-generator.aa25cbf89939def02f6b.png",
+    "index.html": "/20-lizard-blizzard/index.html",
+    "main.073c9b0a.css.map": "/20-lizard-blizzard/static/css/main.073c9b0a.css.map",
+    "main.56a056aa.js.map": "/20-lizard-blizzard/static/js/main.56a056aa.js.map",
+    "787.b11ceb0a.chunk.js.map": "/20-lizard-blizzard/static/js/787.b11ceb0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.56a056aa.js"
+  ]
+}
