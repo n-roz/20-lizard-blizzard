@@ -1,6 +1,57 @@
 # Getting Started with Create React App
 
+## Description
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+[View my unsuccessful deployment here.](https://lizard-blizzard.herokuapp.com/)
+
+I actually really liked this project! Making a portfolio can kind of be a drag but I learned a lot from this project. I must admit my portfolio is unfinished (not deployable and no styling). I am submitting this in the hope of getting some partial credit! I will be styling this to use as my portfolio for job searching.
+
+See my ```heroku logs --tail``` below for an insight into my deployment errors.
+
+![Alt text](src/assets/herokulogs.png "heroku logs --tail")
+
+## Mockup
+
+![Alt text](src/assets/homepage.png "Homepage")
+
+![Alt text](src/assets/portfolio.png "Portfolio")
+
+![Alt text](src/assets/contactme.png "Contact Me")
+
+![Alt text](src/assets/resume.png "Resume")
+
+![Alt text](src/assets/deployment.png "Heroku")
+
+## Grading Requirements
+```
+Technical Acceptance Criteria: 40%
+Satisfies all of the preceding acceptance criteria plus the following:
+Application must use React to render content.
+Application has a single Header component that appears on multiple pages, with a Navigation component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
+Application has a single Project component that’s used multiple times in the Portfolio section.
+Application has a single Footer component that appears on multiple pages.
+Application must be deployed to GitHub Pages.
+
+Deployment: 32%
+Application deployed at live URL.
+Application loads with no errors.
+Application GitHub URL submitted.
+GitHub repository contains application code.
+
+Application Quality: 15%
+User experience is intuitive and easy to navigate.
+User interface style is clean and polished.
+Application uses a color scheme other than the default Bootstrap color palette.
+
+Repository Quality: 13%
+Repository has a unique name.
+Repository follows best practices for file structure and naming conventions.
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+Repository contains multiple descriptive commit messages.
+Repository contains high-quality README file with description, screenshot, and link to deployed application.
+```      
 
 ## Available Scripts
 
@@ -10,9 +61,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
@@ -24,47 +72,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
